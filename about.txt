@@ -1,0 +1,17 @@
+# First step
+So this is a form validator project 
+and in this first thing that we'll work on is html, 
+we'll write a basic html code to display the form,
+which will contain username, email, password, confirm password,submit
+
+## Second step
+now creating basic css formatting 
+
+## Third Step   
+now let's move to the javscript part 
+so we'll get all the elements by using document.getElementById, 
+and we'll be targeting the elements which we'll be modifying
+so its going to be form,username,email, password,and password2
+and then we'll store them in const so that we can modify that
+
+then we'll be adding event listner to what we'll listen, that is submit 
